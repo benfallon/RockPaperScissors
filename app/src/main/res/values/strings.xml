@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Rock Paper Scissors</string>
+    <string name="choose">Choose:</string>
+    <string name="rock">rock</string>
+    <string name="paper">paper</string>
+    <string name="scissors">scissors</string>
+    <string name="allTimeRecord">All-Time Record: </string>
+    <string name="wins">W: </string>
+    <string name="losses">L: </string>
+
+
 </resources>
